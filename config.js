@@ -39,7 +39,7 @@ global.wait = '*Please aaa Waiting...*'
 global.error = '*Hemhe Emror Banh*'
 global.botwm = 'BOT-MD' // watermark bot
 global.oname = 'ALL CREATOR' // nama owner nya
-global.thum = 'https://telegra.ph/file/989f3649493b1af94f3f2.jpg'
+global.thum = 'https://telegra.ph/file/5859353a380d9b67be198.jpg'
 
 let chalk = require('chalk')
 let file = require.resolve(__filename)
